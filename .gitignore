@@ -1,0 +1,5 @@
+/env
+/anaconda_projects
+.ipynb_checkpoints
+/.vscode
+activate.zsh

@@ -1,0 +1,6 @@
+notebook vars
+
+weights_input_to_hidden: [[-312.05995053  182.14598846    1.84188658]]
+bias_hidden: [ 11.48804142 -43.62653052   0.41819668]
+weights_hidden_to_output: [[-18.77613379] [ 18.65828448] [-20.96667902]]
+bias_output: [-0.11266274]
